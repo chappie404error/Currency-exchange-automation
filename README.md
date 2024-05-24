@@ -3,10 +3,12 @@ Python script which collects currency value form an API and sends SMS containing
 <p align ="left">
 <img width =30% src = "images/demo.jpg">
 </p>
+
 # Uses python anywhere to automate the code
 <p align ="center">
 <img width =80% src = "images/auto.png">
 </p>
+
 # Customize country codes
 
 
