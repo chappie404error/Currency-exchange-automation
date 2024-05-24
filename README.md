@@ -1,7 +1,7 @@
 # Currency-exchange-automation
 Python script which collects currency value form an API and sends SMS containing the currency exchange values  using TWILIO 
 <p align ="left">
-<img width =30% src = "images/demo.jpg">
+<img width =30% src = "images/currency.jpg">
 </p>
 
 # Uses python anywhere to automate the code
