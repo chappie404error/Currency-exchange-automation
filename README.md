@@ -5,37 +5,37 @@ Python script which collects currency value form an API and sends SMS containing
 
 
 EUR	Euro </br>
-USD	US Dollar
-JPY	Japanese Yen
-BGN	Bulgarian Lev
-CZK	Czech Republic Koruna
-DKK	Danish Krone
-GBP	British Pound Sterling
-HUF	Hungarian Forint
-PLN	Polish Zloty
-RON	Romanian Leu
-SEK	Swedish Krona
-CHF	Swiss Franc
-ISK	Icelandic Króna
-NOK	Norwegian Krone
-HRK	Croatian Kuna
-RUB	Russian Ruble
-TRY	Turkish Lira
-AUD	Australian Dollar
-BRL	Brazilian Real
-CAD	Canadian Dollar
-CNY	Chinese Yuan
-HKD	Hong Kong Dollar
-IDR	Indonesian Rupiah
-ILS	Israeli New Sheqel
-INR	Indian Rupee
-KRW	South Korean Won
-MXN	Mexican Peso
-MYR	Malaysian Ringgit
-NZD	New Zealand Dollar
-PHP	Philippine Peso
-SGD	Singapore Dollar
-THB	Thai Baht
-ZAR	South African Rand
-THB	Thai Baht
-ZAR	South African Rand
+USD	US Dollar</br>
+JPY	Japanese Yen</br>
+BGN	Bulgarian Lev</br>
+CZK	Czech Republic Koruna</br>
+DKK	Danish Krone</br>
+GBP	British Pound Sterling</br>
+HUF	Hungarian Forint</br>
+PLN	Polish Zloty</br>
+RON	Romanian Leu</br>
+SEK	Swedish Krona</br>
+CHF	Swiss Franc</br>
+ISK	Icelandic Króna</br>
+NOK	Norwegian Krone</br>
+HRK	Croatian Kuna</br>
+RUB	Russian Ruble</br>
+TRY	Turkish Lira</br>
+AUD	Australian Dollar</br>
+BRL	Brazilian Real</br>
+CAD	Canadian Dollar</br>
+CNY	Chinese Yuan</br>
+HKD	Hong Kong Dollar</br>
+IDR	Indonesian Rupiah</br>
+ILS	Israeli New Sheqel</br>
+INR	Indian Rupee</br>
+KRW	South Korean Won</br>
+MXN	Mexican Peso</br>
+MYR	Malaysian Ringgit</br>
+NZD	New Zealand Dollar</br>
+PHP	Philippine Peso</br>
+SGD	Singapore Dollar</br>
+THB	Thai Baht</br>
+ZAR	South African Rand</br>
+THB	Thai Baht</br>
+ZAR	South African Rand</br>
